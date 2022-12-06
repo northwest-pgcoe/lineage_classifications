@@ -5,7 +5,7 @@ The lineage_classifications.csv file is maintained by wa WA DOH Molecular Epidem
 Variables include:
 
 | Variable  | Definition | Source |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | lineage_extracted  | SC2 lineage | extracted from lineage_notes.txt from cov-lineages  |
 | description  | description of lineage_extracted | extracted from lineage_notes.txt from cov-lineages  |
 | status  | "Active" or "Withdrawn" | created from "description" column from lineage_notes.txt  |
