@@ -1,6 +1,6 @@
 # lineage_classifications
 
-The lineage_classifications.csv file is maintained by wa WA DOH Molecular Epidemiolgy Program in order to group the lineages for the Sequencing & Variants Report.
+The lineage_classifications.csv file is maintained by the WA DOH Molecular Epidemiolgy Program in order to group the lineages for the Sequencing & Variants Report.
 
 Variables include:
 
