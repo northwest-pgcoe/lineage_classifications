@@ -957,6 +957,7 @@
 "BA.5.1.25","Alias of B.1.1.529.5.1.25, mainly found in Mexico and Peru, defined by  ORF7b:H42Y, from pango-designation issue #1135","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
 "DJ.1","Alias of B.1.1.529.5.1.25.1, found mainly in Peru, from pango-designation issue #1245","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
 "DJ.1.1","Alias of B.1.1.529.5.1.25.1.1, found in Peru, from pango-designation issue #1245","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
+"DJ.1.2","Alias of B.1.1.529.5.1.25.1.2, found mainly in Peru, from pango-designation issue #1379","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
 "BA.5.1.26","Alias of B.1.1.529.5.1.26, mainly found in Czechia, defined by S:R346T","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
 "CU.1","Alias of B.1.1.529.5.1.26.1, Central/Eastern Europe, S:T95I, S:T547K","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
 "BA.5.1.27","Alias of B.1.1.529.5.1.27, mainly found in North America, defined by S:R346T","Active","VOC","Omicron","BA.5","#80cbc4",1,"BA.5"
