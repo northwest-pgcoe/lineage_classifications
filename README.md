@@ -13,5 +13,5 @@ Variables include:
 | who_class  | Indicates WHO lineage class | created in R code  |
 | doh_variant_name  | Indicates grouping of lineages into parent group used in the DOH Sequencing & Variants Report | created in R code  |
 | hex_code  | Hex code for color of doh_variant_name; follows CDC Nowast colors | created in R code  |
-| lineage_reporting_group  | 1: currently monitored variants; 2: formerly monitored variants; 3: formerly curculating variants, not monitored | created in R code  |
+| lineage_reporting_group  | 1: currently monitored variants; 2: formerly monitored variants; 3: formerly circulating variants, not monitored | created in R code  |
 | doh_variant_name_tables  | Indicates variant name in numerical/pango form for report tables | created in R code  |
