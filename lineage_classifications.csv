@@ -2711,6 +2711,7 @@
 "XBB.1.5.67","C21691T, USA","Active","VOC","Recombinant","XBB.1.5","#5363bb",1,"XBB.1.5"
 "XBB.1.5.68","S:P521T, ORF3a:L71I, C18501T, USA","Active","VOC","Recombinant","XBB.1.5","#5363bb",1,"XBB.1.5"
 "XBB.1.5.69","ORF1a:V2943I,C22513T, USA","Active","VOC","Recombinant","XBB.1.5","#5363bb",1,"XBB.1.5"
+"XBB.1.5.70","Defined by ORF1a:A4068S S:L455F and S:F456L, found mainly in Brazil and USA, from pango-designation issue #1982","Active","VOC","Recombinant","XBB.1.5","#5363bb",1,"XBB.1.5"
 "XBB.1.6","USA, S:L216F, S:H146K, from issue #1428","Active","VOC","Recombinant","XBB","#9fa8da",1,"XBB"
 "XBB.1.7","USA-NY, S:V608I","Active","VOC","Recombinant","XBB","#9fa8da",1,"XBB"
 "XBB.1.8","Denmark, S:186insSGG, C3241T","Active","VOC","Recombinant","XBB","#9fa8da",1,"XBB"
