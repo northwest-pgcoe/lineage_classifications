@@ -9,7 +9,7 @@ Variables include:
 | lineage_extracted  | SC2 lineage | extracted from lineage_notes.txt from cov-lineages  |
 | description  | description of lineage_extracted | extracted from lineage_notes.txt from cov-lineages  |
 | status  | "Active" or "Withdrawn" | created from "description" column from lineage_notes.txt  |
-| cdc_class  | Indicates CDC lineage class | created in R code  |
+| ~~cdc_class~~  | ~~Indicates CDC lineage class~~ | ~~created in R code~~  |(Commented out of script 9/17/2024 due to CDC no longer maintaining this information)
 | who_class  | Indicates WHO lineage class | created in R code  |
 | doh_variant_name  | Indicates grouping of lineages into parent group used in the DOH Sequencing & Variants Report | created in R code  |
 | hex_code  | Hex code for color of doh_variant_name; follows CDC Nowast colors | created in R code  |
