@@ -1,4 +1,6 @@
-# lineage_classifications
+# Please redirect to: https://github.com/NW-PaGe/lineage_classifications 
+
+This repo is in the process of being archived as of 10/15/2024. Please find updated lineage_classification files at the public repo- https://github.com/NW-PaGe/lineage_classifications 
 
 The lineage_classifications.csv file is maintained by the WA DOH Molecular Epidemiology Program in order to group the lineages for the Sequencing & Variants Report.
 
